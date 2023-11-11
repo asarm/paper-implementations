@@ -4,7 +4,8 @@
 <ul>
   <li>Genre Classification
     <ul>
-      <li>Lyric-Based Classification of Music Genres Using Hand-Crafted Features (Thompson, 2021)</li>
+      <li><b>Lyric-Based Classification of Music Genres Using Hand-Crafted Features (Thompson, 2021)</b></li>
+      The author's results could be reproduced in my own dataset  <br>
       <a href="https://reinventionjournal.org/index.php/reinvention/article/view/705/659">paper</a> - <a href="./genre-classification/lyric-based-classification-of-music-genres-using-h.ipynb">code</a>
     </ul>
   </li>
