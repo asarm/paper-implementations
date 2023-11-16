@@ -2,8 +2,8 @@
 
 <h2>Tasks</h2>
 <ul>
-  <li>Genre Classification
-    <br>Used dataset for lyrics: https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information
+  <li>Task Classification
+    <br>Lyrics Dataset: https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information
     <br><br>
     <ul>
       <li><b>Lyric-Based Classification of Music Genres Using Hand-Crafted Features (Thompson, 2021)</b></li>
